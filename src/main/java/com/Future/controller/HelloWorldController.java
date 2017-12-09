@@ -1,5 +1,6 @@
-package com.Future.Controller;
+package com.Future.controller;
 
+import com.Future.entity.Test;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
