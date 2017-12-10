@@ -63,6 +63,13 @@
 			<version>2.2.0-m4</version>
 			<scope>provided</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.apache.solr</groupId>
+			<artifactId>solr-core</artifactId>
+			<version>7.1.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
